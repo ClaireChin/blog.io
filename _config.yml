@@ -1,16 +1,15 @@
 # Site settings
-title: 读立写生
+title: day day up
 header-img: "img/green.jpg"
 tagline: "cn"  
 description: "秦梦玲|凯风由南"  
-baseurl: /study_zone
+baseurl: /clairechin.github.io
 url: "http://mollychin.com"  
 
 # About/contact
 owner: 
   name: "ClaireChin"
   email: mollyqinsz@163.com
-  bio: "写就是写的报酬"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
@@ -43,7 +42,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CnFeat"
+      author: "ClaireChin"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
